@@ -1,4 +1,5 @@
 # UnityLearningZone
+<img src="展示图.jpg" />
 这是unity光照系统测试的小项目。
 Buid Output文件里面打开Wave Effect.exe，按住鼠标右键移动视角，wasd移动，shift加速。这其实是unity自带的控制器。
 
